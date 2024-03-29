@@ -1,2 +1,4 @@
 # Lab_07_Project
  Lab_07 PID Motor Controller Embedded Systems
+
+This lab is structured to help us understand the implementation of control systems, based on the use of the MOTOR DRIVER PCB that we designed at the beginning of the semester. We need to verify that our PCB design is correct, and then use some of the peripherals on the STM32 to control PWM signals for motor direction and we also enable peripheral functionality to work with the motor encoder pins. This lab also involves a lot of understanding how to connect voltages and signals from a schematic (the fusion 360 project) into an actual, physical system with real wires and a physical microcontroller and physical motor driver PCB and a motor. It's a way to get our hands dirty with cyber-physical systems (Pierre would be proud of my use of his words) and try to understand how we interface with them, physically and progammatically.
